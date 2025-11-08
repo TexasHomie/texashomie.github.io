@@ -1,0 +1,21 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2024-01-01T00:00:00Z",
+  "domains": [
+    {
+      "url": "https://onionplay.su",
+      "priority": 1,
+      "region": ["global"],
+      "status": "active",
+      "lastTested": "2024-01-01T00:00:00Z",
+      "responseTime": 0
+    },
+    {
+      "url": "https://onionplay.bz",
+      "priority": 2,
+      "region": ["global"],
+      "status": "active",
+      "lastTested": "2024-01-01T00:00:00Z",
+      "responseTime": 0
+    }
+  ]
